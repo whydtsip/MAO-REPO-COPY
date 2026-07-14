@@ -1,0 +1,464 @@
+{
+  "farmers": [
+    {
+      "id": "f-1",
+      "rsbsaNo": "04-21-03-001-000105",
+      "firstName": "Pedro",
+      "lastName": "Cruz",
+      "middleName": "Santos",
+      "gender": "Male",
+      "dob": "1975-04-12",
+      "contact": "09171234567",
+      "barangay": "Poblacion",
+      "cropType": "Rice",
+      "farmSize": 1.8,
+      "status": "Active",
+      "createdAt": "2026-07-08T08:10:29.561Z",
+      "files": [
+        {
+          "id": "ff-seed-1",
+          "name": "RSBSA_Form_F1_PedroCruz.pdf",
+          "type": "application/pdf",
+          "size": "0.3 MB",
+          "dataUrl": "data:application/pdf;base64,JVBERi0xLjQKMSAwIG9iago8PAovVGl0bGUgKFJTQlNBIExlZ2FsIEZvcm0pCi9DcmVhdG9yIChNQU8gU3lzdGVtKQo+PgplbmRvYmoKMiAwIG9iago8PAovVHlwZSAvQ2F0YWxvZwovUGFnZXMgMyAwIFIKPj4KZW5kb2JqCjMgMCBvYmoKPDYKL1R5cGUgL1BhZ2VzCi9LaWRzIFsgNCAwIFIgXQovQ291bnQgMQo+PgplbmRvYmoKNCAwIG9iago8PAovVHlwZSAvUGFnZQovUGFyZW50IDMgMCBSCi9NZWRpYUJveCBbIDAgMCA1OTUgODQyIF0KL1Jlc291cmNlcyA8PAovRm9udCA8PAovRjEgPDYKL1R5cGUgL0ZvbnQKL1N1YnR5cGUgL1R5cGUxCi9CYXNlRm9udCAvSGVsdmV0aWNhCj4+Cj4+Cj4+Ci9Db250ZW50cyA1IDAgUgo+PgplbmRvYmoKNSAwIG9iago8PAovTGVuZ3RoIDYwCj4+CnN0cmVhbQpCVAovRjEgMTIgVGYKNTAgNzAwIFRkCihSU0JTQSBBcHBsaWNhdGlvbiBGb3JtIC0gUGVkcm8gQ3J1eikgVGgKRVQKZW5kc3RyZWFtCmVuZG9iagp4cmVmCjAgNgowMDAwMDAwMDAwIDY1NTM1IGYgCjAwMDAwMDAwMTcgMDAwMDAgbiAKMDAwMDAwMDA4MyAwMDAwMCBuIAowMDAwMDAwMTMxIDAwMDAwIG4gCDAwMDAwMDAxODggMDAwMDAgbiAKMDAwMDAwMDM0MCAwMDAwMCBuIAp0cmFpbGVyCjw8Ci9TaXplIDYKL1Jvb3QgMiAwIFIKPj4Kc3RhcnR4cmVmCjQ1MAolJUVPRgo=",
+          "uploadedAt": "2026-07-08T08:10:29.561Z"
+        }
+      ]
+    },
+    {
+      "id": "f-2",
+      "rsbsaNo": "04-21-03-002-000214",
+      "firstName": "Maria",
+      "lastName": "Santos",
+      "middleName": "Reyes",
+      "gender": "Female",
+      "dob": "1982-08-23",
+      "contact": "09187654321",
+      "barangay": "San Isidro",
+      "cropType": "Vegetable",
+      "farmSize": 0.6,
+      "status": "Active",
+      "createdAt": "2026-07-08T08:10:29.561Z"
+    },
+    {
+      "id": "f-3",
+      "rsbsaNo": "04-21-03-003-000342",
+      "firstName": "Juan",
+      "lastName": "Dela Cruz",
+      "middleName": "Mendoza",
+      "gender": "Male",
+      "dob": "1968-11-03",
+      "contact": "09228889900",
+      "barangay": "Santa Maria",
+      "cropType": "Corn",
+      "farmSize": 2.5,
+      "status": "Active",
+      "createdAt": "2026-07-08T08:10:29.561Z"
+    },
+    {
+      "id": "f-4",
+      "rsbsaNo": "04-21-03-004-000411",
+      "firstName": "Teresa",
+      "lastName": "Ramos",
+      "middleName": "Bautista",
+      "gender": "Female",
+      "dob": "1990-01-30",
+      "contact": "09351112233",
+      "barangay": "Santo Tomas",
+      "cropType": "High-Value Crops",
+      "farmSize": 1.2,
+      "status": "Active",
+      "createdAt": "2026-07-08T08:10:29.561Z"
+    },
+    {
+      "id": "f-5",
+      "rsbsaNo": "04-21-03-005-000520",
+      "firstName": "Noel",
+      "lastName": "Agoncillo",
+      "middleName": "Luna",
+      "gender": "Male",
+      "dob": "1979-06-18",
+      "contact": "09087776655",
+      "barangay": "Bagong Silang",
+      "cropType": "Coconut",
+      "farmSize": 3.4,
+      "status": "Active",
+      "createdAt": "2026-07-08T08:10:29.561Z"
+    },
+    {
+      "id": "f-6",
+      "rsbsaNo": "04-21-03-006-000602",
+      "firstName": "Corazon",
+      "lastName": "Aquino",
+      "middleName": "Cojuangco",
+      "gender": "Female",
+      "dob": "1985-05-15",
+      "contact": "09154443322",
+      "barangay": "San Jose",
+      "cropType": "Livestock",
+      "farmSize": 0.5,
+      "status": "Active",
+      "createdAt": "2026-07-08T08:10:29.561Z"
+    },
+    {
+      "id": "f-6284873-1783499404889",
+      "rsbsaNo": "04-21-03-001-112233",
+      "firstName": "Ricardo",
+      "lastName": "Dalisay",
+      "middleName": "Arevalo",
+      "gender": "Male",
+      "dob": "1978-02-15",
+      "contact": "09171231234",
+      "barangay": "Santa Maria",
+      "cropType": "Rice",
+      "farmSize": 3.4,
+      "status": "Active",
+      "createdAt": "2026-07-08T08:30:04.889Z",
+      "files": []
+    },
+    {
+      "id": "f-1942526-1783499404889",
+      "rsbsaNo": "04-21-03-004-998877",
+      "firstName": "Teresa",
+      "lastName": "Magbanua",
+      "middleName": "Ferrer",
+      "gender": "Female",
+      "dob": "1985-10-10",
+      "contact": "09187651234",
+      "barangay": "Bagong Silang",
+      "cropType": "Corn",
+      "farmSize": 1.8,
+      "status": "Active",
+      "createdAt": "2026-07-08T08:30:04.889Z",
+      "files": []
+    },
+    {
+      "id": "f-5279505-1783499404889",
+      "rsbsaNo": "04-21-03-006-445566",
+      "firstName": "Andres",
+      "lastName": "Bonifacio",
+      "middleName": "Castro",
+      "gender": "Male",
+      "dob": "1982-11-30",
+      "contact": "09094445555",
+      "barangay": "Santo Tomas",
+      "cropType": "Coconut",
+      "farmSize": 4.5,
+      "status": "Active",
+      "createdAt": "2026-07-08T08:30:04.889Z",
+      "files": []
+    },
+    {
+      "id": "f-56306-1783499404889",
+      "rsbsaNo": "04-21-03-003-332211",
+      "firstName": "Gabriela",
+      "lastName": "Silang",
+      "middleName": "Cariño",
+      "gender": "Female",
+      "dob": "1991-03-19",
+      "contact": "09159998888",
+      "barangay": "San Jose",
+      "cropType": "Fishery",
+      "farmSize": 0.8,
+      "status": "Active",
+      "createdAt": "2026-07-08T08:30:04.889Z",
+      "files": []
+    }
+  ],
+  "cooperatives": [
+    {
+      "id": "c-1",
+      "name": "Poblacion Rice Farmers Multi-Purpose Cooperative",
+      "chairperson": "Pedro Cruz",
+      "contact": "09171234567",
+      "barangay": "Poblacion",
+      "memberCount": 45,
+      "regStatus": "CDA Registered",
+      "status": "Active",
+      "createdAt": "2026-07-08T08:10:29.561Z",
+      "files": [
+        {
+          "id": "cf-seed-1",
+          "name": "CDA_Registration_Certificate_PoblacionCoop.pdf",
+          "type": "application/pdf",
+          "size": "0.4 MB",
+          "dataUrl": "data:application/pdf;base64,JVBERi0xLjQKMSAwIG9iago8PAovVGl0bGUgKENEQSBBY2NyZWRpdGF0aW9uKQovQ29ycmVzcG9uZGVuY2UgKE1BTyBSZXBvc2l0b3J5KQo+PgplbmRvYmoKMiAwIG9iago8PAovVHlwZSAvQ2F0YWxvZwovUGFnZXMgMyAwIFIKPj4KZW5kb2JqCjMgMCBvYmoKPDYKL1R5cGUgL1BhZ2VzCi9LaWRzIFsgNCAwIFIgXQovQ291bnQgMQo+PgplbmRvYmoKNCAwIG9iago8PAovVHlwZSAvUGFnZQovUGFyZW50IDMgMCBSCi9NZWRpYUJveCBbIDAgMCA1OTUgODQyIF0KL1Jlc291cmNlcyA8PAovRm9udCA8PAovRjEgPDYKL1R5cGUgL0ZvbnQKL1N1YnR5cGUgL1R5cGUxCi9CYXNlRm9udCAvSGVsdmV0aWNhCj4+Cj4+Cj4+Ci9Db250ZW50cyA1IDAgUgo+PgplbmRvYmoKNSAwIG9iago8PAovTGVuZ3RoIDYwCj4+CnN0cmVhbQpCVAovRjEgMTIgVGYKNTAgNzAwIFRkCihDREEgUmVnaXN0cmF0aW9uIENlcnRpZmljYXRlIC0gUG9ibGFjaW9uIENvb3ApIFRoCkVUCmVuZHN0cmVhbQplbmRvYmoKeHJlZgowIDYKMDAwMDAwMDAwMCA2NTUzNSBmIAowMDAwMDAwMDE3IDAwMDAwIG4gCjAwMDAwMDAwODUgMDAwMDAgbiAKMDAwMDAwMDEzMyAwMDAwMCBuIAowMDAwMDAwMTkwIDAwMDAwIG4gCjAwMDAwMDAzNDIgMDAwMDAgbiAKdHJhaWxlcgo8PAovU2l6ZSA2Ci9Sb290IDIgMCBSCj4+CnN0YXJ0eHJlZgo0NTIKJSVFT0Y=",
+          "uploadedAt": "2026-07-08T08:10:29.561Z"
+        }
+      ]
+    },
+    {
+      "id": "c-2",
+      "name": "Santa Maria Organic Vegetable Growers Association",
+      "chairperson": "Juan Dela Cruz",
+      "contact": "09228889900",
+      "barangay": "Santa Maria",
+      "memberCount": 28,
+      "regStatus": "SEC Registered",
+      "status": "Active",
+      "createdAt": "2026-07-08T08:10:29.561Z"
+    },
+    {
+      "id": "c-3",
+      "name": "San Isidro Coconut Producers Cooperative",
+      "chairperson": "Noel Agoncillo",
+      "contact": "09087776655",
+      "barangay": "San Isidro",
+      "memberCount": 60,
+      "regStatus": "CDA Registered",
+      "status": "Active",
+      "createdAt": "2026-07-08T08:10:29.561Z"
+    }
+  ],
+  "programs": [
+    {
+      "id": "p-1",
+      "title": "RCEF Certified Rice Seed Distribution",
+      "description": "Distribution of high-yield certified inbred rice seeds to RSBSA-registered rice farmers for the Wet Season 2026.",
+      "budget": 250000,
+      "inputProvided": "Certified Rice Seeds (2 Bags per Hectare)",
+      "startDate": "2026-05-01",
+      "endDate": "2026-07-31",
+      "status": "Active",
+      "createdAt": "2026-07-08T08:10:29.561Z"
+    },
+    {
+      "id": "p-2",
+      "title": "Fertilizer Subsidy Voucher Program",
+      "description": "Subsidy vouchers worth ₱3,000 for purchasing inorganic or organic fertilizers from accredited merchant stores.",
+      "budget": 500000,
+      "inputProvided": "₱3,000 Fertilizer Voucher",
+      "startDate": "2026-06-01",
+      "endDate": "2026-09-30",
+      "status": "Active",
+      "createdAt": "2026-07-08T08:10:29.561Z"
+    },
+    {
+      "id": "p-3",
+      "title": "High-Yield Corn Subsidy Program",
+      "description": "Distribution of genetically modified hybrid corn seeds and starter fertilizers for commercial corn farmers.",
+      "budget": 150000,
+      "inputProvided": "Hybrid Corn Seeds & Fertilisers",
+      "startDate": "2026-08-15",
+      "endDate": "2026-11-30",
+      "status": "Upcoming",
+      "createdAt": "2026-07-08T08:10:29.561Z"
+    },
+    {
+      "id": "p-4",
+      "title": "Integrated Pest Management (IPM) Training",
+      "description": "Hands-on capacity building on biological controls, proper pesticide application, and ecological pest management.",
+      "budget": 45000,
+      "inputProvided": "Training Materials & Biological Control Kits",
+      "startDate": "2026-04-10",
+      "endDate": "2026-04-20",
+      "status": "Completed",
+      "createdAt": "2026-07-08T08:10:29.561Z"
+    }
+  ],
+  "distributions": [
+    {
+      "id": "d-1",
+      "programId": "p-1",
+      "programTitle": "RCEF Certified Rice Seed Distribution",
+      "farmerId": "f-1",
+      "farmerName": "Pedro Cruz",
+      "farmerBarangay": "Poblacion",
+      "quantityReceived": "4 Bags",
+      "distributedAt": "2026-05-15T10:30:00Z",
+      "notes": "Based on 1.8 hectares of registered rice farm."
+    },
+    {
+      "id": "d-2",
+      "programId": "p-2",
+      "programTitle": "Fertilizer Subsidy Voucher Program",
+      "farmerId": "f-1",
+      "farmerName": "Pedro Cruz",
+      "farmerBarangay": "Poblacion",
+      "quantityReceived": "1 Voucher (₱3,000)",
+      "distributedAt": "2026-06-10T14:15:00Z",
+      "notes": "Voucher redeemed at Coop Store."
+    },
+    {
+      "id": "d-3",
+      "programId": "p-2",
+      "programTitle": "Fertilizer Subsidy Voucher Program",
+      "farmerId": "f-2",
+      "farmerName": "Maria Santos",
+      "farmerBarangay": "San Isidro",
+      "quantityReceived": "1 Voucher (₱3,000)",
+      "distributedAt": "2026-06-12T09:00:00Z",
+      "notes": "Redeemed for organic fertilizer compost."
+    },
+    {
+      "id": "d-4",
+      "programId": "p-1",
+      "programTitle": "RCEF Certified Rice Seed Distribution",
+      "farmerId": "f-3",
+      "farmerName": "Juan Dela Cruz",
+      "farmerBarangay": "Santa Maria",
+      "quantityReceived": "5 Bags",
+      "distributedAt": "2026-05-18T11:00:00Z",
+      "notes": "Registered rice/corn rotation land."
+    }
+  ],
+  "documents": [
+    {
+      "id": "fld-policy",
+      "title": "Policy Guidelines & Circulars",
+      "description": "National and municipal level circulars, seed distribution guidelines, and legislative mandates.",
+      "category": "Policy/Ordinance",
+      "tags": [
+        "policy",
+        "circulars",
+        "laws"
+      ],
+      "summary": [
+        "Directory for all official policy guidelines.",
+        "Maintained by the municipal director.",
+        "Updated seasonally."
+      ],
+      "fileSize": "--",
+      "type": "folder",
+      "parentId": null,
+      "uploadedAt": "2026-07-08T08:10:29.561Z"
+    },
+    {
+      "id": "fld-annual",
+      "title": "Annual Accomplishment Reports",
+      "description": "Official annual performance, statistical logs, and project summary portfolios.",
+      "category": "Annual Report",
+      "tags": [
+        "reports",
+        "accomplishment",
+        "stats"
+      ],
+      "summary": [
+        "Contains yearly performance analytics.",
+        "Audited and verified datasets.",
+        "Includes budget lists."
+      ],
+      "fileSize": "--",
+      "type": "folder",
+      "parentId": null,
+      "uploadedAt": "2026-07-08T08:10:29.561Z"
+    },
+    {
+      "id": "doc-1",
+      "title": "DA Memorandum Circular No. 05 - Seed Distribution Rules",
+      "description": "National guidelines for the distribution of certified inbred and hybrid seeds under the Rice Competitiveness Enhancement Fund.",
+      "category": "Policy/Ordinance",
+      "tags": [
+        "seed",
+        "guidelines",
+        "rice",
+        "rcef"
+      ],
+      "summary": [
+        "Mandates that only RSBSA-registered farmers are eligible for free seed allocation.",
+        "Limits distribution to a maximum of 4 bags of certified seeds per farmer depending on land size.",
+        "Establishes a municipal tracking committee composed of the MAO and barangay representatives."
+      ],
+      "fileSize": "1.4 MB",
+      "type": "file",
+      "parentId": "fld-policy",
+      "uploadedAt": "2026-05-02T08:30:00Z"
+    },
+    {
+      "id": "doc-2",
+      "title": "MAO Annual Accomplishment Report - Fiscal Year 2025",
+      "description": "Comprehensive summary of farming input distributions, capacity building seminars, and cooperative accreditations in the municipality.",
+      "category": "Annual Report",
+      "tags": [
+        "report",
+        "accomplishment",
+        "annual",
+        "statistics"
+      ],
+      "summary": [
+        "Distributed over 4,500 bags of fertilizer and 2,100 bags of certified seeds in FY 2025.",
+        "Registered 150 new active farmers in the RSBSA master database.",
+        "Successfully established 3 new coconut and high-value crop cooperatives."
+      ],
+      "fileSize": "4.2 MB",
+      "type": "file",
+      "parentId": "fld-annual",
+      "uploadedAt": "2026-01-10T16:00:00Z"
+    },
+    {
+      "id": "doc-3",
+      "title": "Fertilizer Subsidy Beneficiary Masterlist - June 2026 Batch",
+      "description": "List of validated beneficiaries in all barangays approved to receive the wet-season fertilizer discount vouchers.",
+      "category": "Distribution List",
+      "tags": [
+        "fertilizer",
+        "beneficiary",
+        "list",
+        "voucher"
+      ],
+      "summary": [
+        "Includes a total of 342 validated smallholder farmers across 7 key barangays.",
+        "Identifies 8 accredited supply merchants within the municipality.",
+        "Total allocated subsidy budget is ₱1,026,000."
+      ],
+      "fileSize": "850 KB",
+      "type": "file",
+      "parentId": null,
+      "uploadedAt": "2026-06-25T11:45:00Z"
+    }
+  ],
+  "users": [
+    {
+      "id": "usr-admin",
+      "email": "admin@mao.gov.ph",
+      "password": "admin123",
+      "name": "Admin Director",
+      "role": "admin",
+      "createdAt": "2026-07-08T08:10:29.561Z"
+    },
+    {
+      "id": "usr-staff",
+      "email": "user@mao.gov.ph",
+      "password": "user123",
+      "name": "Staff Member",
+      "role": "user",
+      "createdAt": "2026-07-08T08:10:29.561Z"
+    }
+  ],
+  "ppmp": [
+    {
+      "id": "ppmp-1783499249643",
+      "createdAt": "2026-07-08T08:27:29.643Z",
+      "items": [
+        {
+          "id": "item-1783499317654",
+          "code": "M-2026-112",
+          "generalDescription": "A4 Bond Paper",
+          "quantity": 5,
+          "unit": "Ream",
+          "estimatedBudget": 1500,
+          "modeOfProcurement": "Shopping",
+          "schedule": {
+            "Jan": false,
+            "Feb": true,
+            "Mar": false,
+            "Apr": false,
+            "May": false,
+            "Jun": false,
+            "Jul": false,
+            "Aug": false,
+            "Sep": false,
+            "Oct": false,
+            "Nov": false,
+            "Dec": false
+          }
+        }
+      ],
+      "totalBudget": 1500,
+      "title": "Office Supplies",
+      "year": 2026,
+      "department": "Municipal Agriculture Office",
+      "status": "Draft"
+    }
+  ]
+}

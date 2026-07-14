@@ -1,0 +1,8 @@
+{
+  "name": "Remix: MAO Repository System",
+  "description": "A full-stack repository management system for the Municipal Agriculture Office (MAO) to manage registered farmers, cooperatives, agricultural programs, input distributions, and archival documents with Gemini-powered auto-categorization and analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
